@@ -1,0 +1,175 @@
+.tiny{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#333;
+	font-size:12px;
+	font-weight: lighter;
+}
+.title{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	font-size:32px;
+	font-weight: bold;
+}
+.stats{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:16px;
+	font-weight: normal;
+}
+.steps{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#333;
+	font-size:22px;
+	font-weight: bold;
+}
+.substeps{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#666;
+	font-size:16px;
+	font-weight: normal;
+}
+.full {
+	float: left;
+	height: 100%;
+	width: 100%;
+}
+.header {
+	float: left;
+	height: 100%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #6CC;
+	font-weight: bold;
+	color: #FFF;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.headertop {
+	float: left;
+	height: 100%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #FFF;
+	font-weight: bold;
+	color: #000;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.banner {
+	float: left;
+	height: 100%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-image: url(../images/kodihub.jpg);
+	background-repeat: no-repeat;
+}
+.fifty {
+	float: left;
+	height: 100%;
+	width: 50%;
+	font-weight: normal;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	margin-top: 20px;
+}
+.fiftysized {
+	float: left;
+	height: 120px;
+	width: 50%;
+	font-weight: normal;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	margin-top: 20px;
+}
+.logintitle {
+	float: left;
+	height: 100%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.login {
+	float: left;
+	height: 100%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	background-color: #CCC;
+	border: 0px none #000;
+	color: #000;
+	font-size: 16px;
+}
+.subtitle {
+	float: left;
+	height: 100%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #CF6;
+	font-weight: bold;
+	color: #666;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.space {
+	float: left;
+	height: 15px;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.contentbox {
+	float: left;
+	height: 100%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #FFF;
+}
+.contentboxads {
+	float: left;
+	height: 150px;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #FFF;
+}
+.fifth {
+	float: left;
+	height: 100%;
+	width: 20%;
+}
+.leftbar {
+	float: left;
+	height: 560px;
+	width: 25%;
+	margin-left: 10px;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #666;
+}
+.mainspace {
+	float: left;
+	height: 560px;
+	width: 70%;
+	padding-left: 10px;
+}
